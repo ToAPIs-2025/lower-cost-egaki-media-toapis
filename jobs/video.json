@@ -1,0 +1,11 @@
+{
+  "kind": "video",
+  "model": "seedance-2-5",
+  "prompt": "A gentle cinematic orbit around the ivory bottle, copper cap glinting softly, subtle condensation and moving leaf shadows. Preserve bottle shape and orange placement from the first frame. One continuous shot, no cuts, no text, no audio.",
+  "duration": 4,
+  "resolution": "480p",
+  "aspect_ratio": "16:9",
+  "generate_audio": false,
+  "run_id": "1019-egaki-seedance-2-5",
+  "first_frame_file": "examples/gpt-image-2-vip.png"
+}
